@@ -32,6 +32,7 @@ Icons are essential for intuitive design and user interfaces. This list covers b
 - [Bootstrap Icons](https://icons.getbootstrap.com/) – Official Bootstrap icon library.
 - [Boxicons](https://boxicons.com/) – Carefully crafted open-source icons.
 - [Material Icons](https://fonts.google.com/icons) – Google's Material Design icons.
+- [Thridy](https://thridy.com/) – 13,000+ free 3D icons in one consistent style, downloadable as HD transparent PNGs with no signup or attribution required.
 
 ## Premium Icon Packs
 
